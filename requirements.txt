@@ -1,5 +1,6 @@
 
-import openpyxl
+pip% install openpyxl
+import openpyxl;
 import pandas as pd
 from analyticskit import *
 import datetime as dt
